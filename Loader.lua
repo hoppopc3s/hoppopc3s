@@ -6,7 +6,12 @@ local scripts = {
     },
     [994732206] = { -- Blox Fruits
         PVP = "https://raw.githubusercontent.com/hoppopc3s/hoppopc3s/refs/heads/main/BloxFruits/BF-PVP.lua",
+    },
+    [4658598196] = { -- AOTR
+        FARM = "https://raw.githubusercontent.com/hoppopc3s/hoppopc3s/refs/heads/main/AOTR/aotr.lua",
+        PVP = "https://raw.githubusercontent.com/hoppopc3s/hoppopc3s/refs/heads/main/AOTR/aotr.lua",
     }
+        
 }
 
 local cfg = scripts[game.GameId]
